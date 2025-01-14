@@ -1,8 +1,8 @@
 ## Hi there, world! 👋
 
-:man: Pronouns: He/Him/His
+👨 Pronouns: He/Him/His
 
-:man_technologist: I'm a Web Development student that is currently learning:
+👨‍💻 I'm a Web Development student that is currently learning:
 - Java
 - HTML
 - CSS
@@ -13,7 +13,7 @@
 I have also learned to create a server with Docker and Microsoft Azure and to create a virtual machines for that.
 As of right now, I'm kind of more proficient in HTML and PHP than the other languages.
 
-:face_with_monocle: I'm looking for help in Java, CSS, MySQL, and JavaScript.
+🧐 I'm looking for help in Java, CSS, MySQL, and JavaScript.
 <!--
 **timc6t/timc6t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
