@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, world! 👋
 
+I'm a Web Development student that is currently learning:
+- Java
+- HTML
+- CSS
+- MySQL
+- JavaScript
+- PHP
+I have also learned to create a server with Docker and Microsoft Azure and to create a virtual machines for that.
+As of right now, I'm kind of more proficient in HTML and PHP than the other languages.
 <!--
 **timc6t/timc6t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
