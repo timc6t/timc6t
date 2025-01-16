@@ -4,6 +4,8 @@
 
 👨‍💻 I'm a Web Development student on his second (and final) year. Eager to learn about more language but at my own pace. I have also learned to create a server with Docker and Microsoft Azure and to create a virtual machines for that. As of right now, I'm kind of more proficient in HTML and PHP than the other languages.
 
+You **may** or **may not** fork my public repositories. But please, do **contribute** to any of them. I'll gladly accept corrections as well as some help. After all, failure is the best way to learn, right?
+
 ## **Languages**
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,mysql,php,symfony,js&perline=3)](https://skillicons.dev)
 
