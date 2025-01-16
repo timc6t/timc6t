@@ -2,16 +2,13 @@
 
 👨 Pronouns: He/Him/His
 
-👨‍💻 I'm a Web Development student that is currently learning:
-- Java
-- HTML
-- CSS
-- MySQL
-- JavaScript
-- PHP
+👨‍💻 I'm a Web Development student on his second (and final) year. Eager to learn about more language but at my own pace. I have also learned to create a server with Docker and Microsoft Azure and to create a virtual machines for that. As of right now, I'm kind of more proficient in HTML and PHP than the other languages.
 
-I have also learned to create a server with Docker and Microsoft Azure and to create a virtual machines for that.
-As of right now, I'm kind of more proficient in HTML and PHP than the other languages.
+## **Languages**
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,mysql,php,symfony,js&perline=3)](https://skillicons.dev)
+
+## **Tools**
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,idea,notion,vscode,linux,ubuntu,windows&perline=3)](https://skillicons.dev)
 
 🧐 I'm looking for help in Java, CSS, MySQL, and JavaScript.
 <!--
